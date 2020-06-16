@@ -30,7 +30,7 @@ let cSizeY = 600;
 //name used to sort your messages. used like a radio station. can be called anything
 let channelName = "dots";
 
-let historyCount = 100;  //how many messages to load from history
+let historyCount = 1;  //how many messages to load from history
 
 
 function setup() 
