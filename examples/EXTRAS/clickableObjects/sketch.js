@@ -10,8 +10,8 @@
 
 // server variables
 let dataServer;
-let pubKey = 'insert your pub key';
-let subKey = 'insert your sub key';
+let pubKey = 'pub-c-8db19b5d-f1de-4ece-a16d-5e464169e380';
+let subKey = 'sub-c-5ed17662-acc7-11ea-8210-c6b11d1b7ea4';
 let channelName = "clicksInertia";
 let howManyConnections;
 //These variables are used to manage our circle objects
