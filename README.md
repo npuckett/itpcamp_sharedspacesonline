@@ -8,16 +8,25 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <script src="https://cdn.jsdelivr.net/npm/p5@0.10.2/lib/p5.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/addons/p5.dom.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/p5@0.10.2/lib/addons/p5.sound.min.js"></script>
-    <script src="https://cdn.pubnub.com/sdk/javascript/pubnub.4.27.0.min.js"></script>
+    <!--These script tags import P5 functionality-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.10.2/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.10.2/addons/p5.sound.min.js"></script>
+    <!--These script tags import P5 functionality-->
+
+    <!--This script tag imports PubNub functionality-->
+    <script src="https://cdn.pubnub.com/sdk/javascript/pubnub.4.28.0.js"></script>
+    <!--This script tag imports PubNub functionality-->
+
+
     <link rel="stylesheet" type="text/css" href="style.css">
     <meta charset="utf-8" />
 
   </head>
   <body>
+    <!--This script tag imports your sketch.js file that contains the actual code and inserts the content into the html page-->
     <script src="sketch.js"></script>
+    <!--This script tag imports your sketch.js file that contains the actual code and inserts the content into the html page-->
+
   </body>
 </html>
 ```
