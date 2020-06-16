@@ -2,6 +2,13 @@
 ## Networking examples using P5.js + PubNub
 #### These examples have been created for various courses introducing methods for creating networked experiences with only frontend coding in P5. To work with this code you will need a free [PubNub account](pubnub.com).
 
+
+![pn1](https://www.pubnub.com/static/images/old/pubnub-galaxy.gif)
+Format: ![Alt Text](url)
+
+![pn2](https://www.pubnub.com/static/images/old/pubnub-pulse-1.gif)
+Format: ![Alt Text](url)
+
 ## Basic Setup
 #### Link to the pubnub library in your index file via a script tag
 ```html
